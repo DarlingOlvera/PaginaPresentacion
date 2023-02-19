@@ -1,2 +1,1 @@
-
-sudo git pull
+sudo systemctl stop nginx
