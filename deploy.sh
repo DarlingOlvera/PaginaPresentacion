@@ -8,6 +8,6 @@ sudo git pull
 sudo systemctl start nginx
 
 #configurar authToken
-sudo ngrok config add-authtoken 27na5ebIm5U9ohqjVq9YpDzE4kg_5N37pSjjo6RwZoUtkS3CW
+sudo ngrok config add-authtoken 2M4Iq6mi2bBdbESybikwU489rbN_Rnm5NtZhTiBmAaJMpTMF
 #Encender ngrok
 sudo ngrok http 80
