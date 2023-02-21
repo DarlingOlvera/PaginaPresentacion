@@ -6,3 +6,6 @@ sudo git pull
 
 #Encender nginx otra vez
 sudo systemctl start nginx
+
+#Encender ngrok
+sudo ngrok http 80
